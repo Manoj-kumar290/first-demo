@@ -1,0 +1,87 @@
+.img{
+    height: 341px;
+    width: 347px;
+    margin-left: 50px;
+}
+.btn{
+    height: 31px;
+    width: 79px;
+    background-color: white;
+    border: blue solid 2px;
+    border-radius: 6px;
+    margin: 40px;
+    color: blue;
+}
+.title{
+    color: blue;
+    padding: 20px;
+}
+.home-second{
+display: flex;
+
+}
+.home{
+    justify-content: space-between;
+}
+.container{
+    height: 305px;
+    width: 600px;
+    background-color: white;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+.container2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+}
+.input{
+ padding: 10px;
+ display: flex;
+ flex-direction: column;
+}
+.input1{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    height: 43px;
+    border: 3px solid blue;
+    border-radius: 5px;
+    width: 500px;
+}
+.btn2{
+    height: 30px;
+    width: 70px;
+    background-color: blue;
+    color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+
+}
+.card{
+    height: 200px;
+    width: 300px;
+    background-color: white;
+    margin-left: 100px;
+    border-radius: 10px;
+    border: 2px solid rgb(204, 202, 202);
+    display: flex;
+    margin-top: 20px;
+    flex-direction: column;
+    cursor: pointer;
+}
+.card-first2{
+   height: 50px;
+   width: 80px;
+   background-color: rgb(61, 252, 61);
+   border-top-left-radius: 10px;
+   border-bottom-right-radius: 10px;
+color: white;
+display: grid;
+  place-items: center;
+}
+.para-card{
+    padding: 10px;
+    color: gray;
+    margin-top:10px ;
+}
